@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="139.533 23.662 210.854 210.854" xmlns="http://www.w3.org/2000/svg">
-  <rect style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 16px;" transform="matrix(1, 0, 0, 1, -5.040267, -93.371422)" x="144.573" y="117.033" width="210.854" height="210.854" rx="32" ry="32"/>
-  <path d="M 286.46 78.944 L 286.46 91.724 L 251.726 91.724 L 251.726 179.234 L 238.193 179.234 L 238.193 91.724 L 203.46 91.724 L 203.46 78.944 L 286.46 78.944 Z" style="fill: rgb(51, 51, 51); white-space: pre;"/>
+<svg viewBox="73.198 24.71 226.91 226.91" width="226.91" height="226.91" xmlns="http://www.w3.org/2000/svg">
+  <rect style="stroke: rgb(0, 0, 0); stroke-width: 8px; paint-order: fill; fill-rule: nonzero; fill: rgb(255, 255, 255);" x="144.573" y="117.033" width="210.854" height="210.854" rx="32" ry="32" transform="matrix(1, 0, 0, 1, -63.347237, -84.295242)"/>
+  <path d="M 228.153 88.02 L 228.153 100.8 L 193.419 100.8 L 193.419 188.31 L 179.886 188.31 L 179.886 100.8 L 145.153 100.8 L 145.153 88.02 L 228.153 88.02 Z" style="fill: rgb(51, 51, 51); white-space: pre;"/>
+  <rect style="fill: rgba(8, 8, 7, 0); paint-order: fill; stroke: rgba(0, 0, 0, 0); stroke-width: 16px;" x="73.198" y="24.71" width="226.91" height="226.91" rx="32" ry="32"/>
 </svg>
