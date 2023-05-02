@@ -78,6 +78,8 @@ const config = {
           //   label: 'Tutorial',
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: "/docs/intro", label: "Docs", position: "left"},
+          {to: "/apps/journeycast", label: "JourneyCast", position: "left"},
           {
             href: 'https://github.com/tinyapps-hq',
             label: 'GitHub',
