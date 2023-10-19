@@ -9,6 +9,7 @@ export default () => {
         <div className="row mdxPageWrapper_node_modules-@docusaurus-theme-classic-lib-theme-MDXPage-styles-module">
           <div className="col col--8">
             <article>
+              <img src={"/img/jc2/JourneyCast2Logo.png"} style={{borderRadius: "2em", width: "12em"}} />
               <h1>Journeycast2</h1>
               <p>
                 Have you ever wanted to view the weather forecast for your
