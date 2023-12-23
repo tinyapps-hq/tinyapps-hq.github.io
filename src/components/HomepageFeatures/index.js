@@ -1,5 +1,6 @@
 import clsx from "clsx";
 import React from "react";
+import AppStoreButton from "../AppStoreButton";
 import styles from "./styles.module.css";
 
 const FeatureList = [
@@ -45,7 +46,22 @@ const FeatureList = [
     ),
     cta: (
       <>
-        <a href="https://apps.apple.com/us/app/journeycast2/id6467520223" target="_blank">Get it now!</a>
+        <AppStoreButton link="https://apps.apple.com/us/app/journeycast2/id6467520223" newTab={true} />
+      </>
+    )
+  },
+  {
+    title: "Two Up",
+    // Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    image: "/img/twoup/TwoUpLogo.png",
+    description: (
+      <>
+        Coming Soon! Live scoring for your buddy trip's Ryder-Cup style event.
+      </>
+    ),
+    cta: (
+      <>
+        Coming Soon!
       </>
     )
   },
