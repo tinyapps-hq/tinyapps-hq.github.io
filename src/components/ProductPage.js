@@ -14,7 +14,8 @@ const ProductPage = ({
   return (
     <Layout title={title} description={title}>
       <div className="container container-fluid margin-vert--lg">
-        <div className="row mdxPageWrapper_node_modules-@docusaurus-theme-classic-lib-theme-MDXPage-styles-module">
+        <div className="row mdxPageWrapper_node_modules-@docusaurus-theme-classic-lib-theme-MDXPage-styles-module" style={{justifyContent:"center"}}>
+            {/* <div className="col col--2"></div> */}
           <div className="col col--8">
             <article>
               <img
