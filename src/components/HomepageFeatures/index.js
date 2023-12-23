@@ -1,6 +1,6 @@
-import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
+import clsx from "clsx";
+import React from "react";
+import styles from "./styles.module.css";
 
 const FeatureList = [
   // {
@@ -34,25 +34,44 @@ const FeatureList = [
   //   ),
   // },
   {
-    title: "Coming Soon",
+    title: "Journeycast2",
+    // Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    image: "/img/jc2/JourneyCast2Logo.png",
+    description: (
+      <>
+        Now available! The long-awaited successor to the popular Journeycast
+        travel forecast app is available in the App Store now.
+      </>
+    ),
+    cta: (
+      <>
+        <a href="https://apps.apple.com/us/app/journeycast2/id6467520223" target="_blank">Get it now!</a>
+      </>
+    )
+  },
+  {
+    title: "More coming Soon",
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         The tension is building.
       </>
     )
-  }
+  },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, image, title, description, cta }) {
   return (
-    <div className={clsx('col col--12')}>
+    <div className={clsx("col col--4")}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {Svg && <Svg className={styles.featureSvg} role="img" />}
+        {image && <img src={image} style={{borderRadius: "2em", width: "12em"}} />}
+
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+        { cta }
       </div>
     </div>
   );
@@ -62,7 +81,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
+        <div className="row" style={{ justifyContent: "center" }}>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
