@@ -56,12 +56,12 @@ const FeatureList = [
     image: "/img/twoup/TwoUpLogo.png",
     description: (
       <>
-        Coming Soon! Live scoring for your buddy trip's Ryder-Cup style event.
+        Live scoring for your buddy trip's Ryder-Cup style event.
       </>
     ),
     cta: (
       <>
-        Coming Soon!
+        <AppStoreButton link="https://apps.apple.com/us/app/two-up/id6474644660" newTab={true} />
       </>
     )
   },

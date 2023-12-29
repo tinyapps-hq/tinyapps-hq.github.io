@@ -16,7 +16,7 @@ const images = [
 const config = {
   title: "Two Up",
   appIconPath: "/img/twoup/TwoUpLogo.png",
-  appStoreLink: null,
+  appStoreLink: "https://apps.apple.com/us/app/two-up/id6474644660",
   description: "Professional scoring for amateur golfers",
   productHuntBadge,
   images,
