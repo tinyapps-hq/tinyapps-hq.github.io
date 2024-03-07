@@ -1,6 +1,5 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -82,7 +81,7 @@ const config = {
           // {to: "/apps/journeycast", label: "JourneyCast", position: "left"},
           {to: "/apps/journeycast2", label: "JourneyCast2", position: "left"},
           {to: "/apps/training-tracker", label: "Training Tracker", position: "left"},
-          {to: "/apps/two-up", label: "Two Up", position: "left"},
+          {to: "/docs/two-up", label: "Two Up", position: "left"},
           {
             href: 'https://github.com/tinyapps-hq',
             label: 'GitHub',

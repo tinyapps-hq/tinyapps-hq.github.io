@@ -24,11 +24,13 @@ const config = {
 
 export default () => {
   return (
-    <ProductPage {...config}>
+      <ProductPage {...config}>
       Do you organize or participate in a Ryder-Cup-style golf trip? Do you
       struggle with real time scoring? Are you paying way too much for other
       tools that are clunky and don't look great? With Two Up, you can have live
       tournament scoring without the headache!
+
+      <p><a href="/docs/two-up">Read the docs</a></p>
       <ul>
         <li>
           Add and invite players to your event - no signup required to
@@ -39,5 +41,6 @@ export default () => {
         <li>Track player records</li>
       </ul>
     </ProductPage>
+    
   );
 };
