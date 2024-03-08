@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[7777],{6121:e=>{e.exports=JSON.parse('{"title":"Host Guides","slug":"/category/host-guides","permalink":"/docs/category/host-guides","navigation":{"previous":{"title":"Welcome","permalink":"/docs/two-up/"},"next":{"title":"Create a Tournament","permalink":"/docs/two-up/host/create-a-tournament"}}}')}}]);
