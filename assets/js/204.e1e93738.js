@@ -3,7 +3,7 @@ exports.id = 204;
 exports.ids = [204];
 exports.modules = {
 
-/***/ 1204:
+/***/ 51204:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -15,7 +15,7 @@ __webpack_require__.d(__webpack_exports__, {
 });
 
 // EXTERNAL MODULE: ./node_modules/@ionic/core/components/helpers.js
-var helpers = __webpack_require__(6587);
+var helpers = __webpack_require__(96587);
 ;// CONCATENATED MODULE: ./node_modules/@ionic/core/components/dir.js
 /*!
  * (C) Ionic http://ionicframework.com - MIT License
