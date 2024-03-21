@@ -1,5 +1,5 @@
 import { IonIcon } from "@ionic/react";
-import { build, cog, createOutline, ellipsisHorizontal, person, qrCodeOutline } from "ionicons/icons";
+import { build, cog, createOutline, ellipse, ellipsisHorizontal, person, qrCodeOutline } from "ionicons/icons";
 import React from "react";
 
 const styles = {
@@ -17,6 +17,7 @@ export const TournamentMenu = () => Icon(ellipsisHorizontal);
 export const QRIcon = () => Icon(qrCodeOutline);
 export const EditIcon = () => Icon(createOutline);
 export const SettingsIcon = () => Icon(cog);
+export const StrokeDot = () => Icon(ellipse)
 export const PersonIcon = () => (
   <IonIcon
     icon={person}

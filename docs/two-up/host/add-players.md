@@ -14,6 +14,8 @@ player's information, then tap "Save Player"
 
 ![](/apps/two-up/media/add-players.gif)
 
+## Invite Players
+
 Once a player has been created, you can invite them by tapping the
 "Invite" button next to the player on the Players screen. You can also pull up the player later on and tap the QR icon (<QRIcon/>) to view the player's invite as a QR code. You can have the player scan this code with the camera app on their phone to accept the invite.
 

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+import {StrokeDot} from "../../../src/components/Icon"
+
 # Add Sessions
 
 Add sessions (rounds) to your tournament by tapping the "Sessions"
@@ -25,5 +27,15 @@ From the Edit Tournament screen, tap the **Current Session** item, and tap the c
 
 ## Handicapping
 
-If you have selected a Course for your session, you can choose the handicap allowance. Doing so will show the relevant strokes for the match as dots (&bull;) next to the appropriate player on the score entry screens.
+If you have selected a Course for your session, you can choose the handicap allowance. Doing so will show the relevant strokes for the match as dots (<StrokeDot/>) next to the appropriate player on the score entry screens. The match card will also display each player's Course Handicap (CH) for the course. The difference between these values, based on the type of play and handicap allowance, determines the number of strokes a player receives in the match. 
+
+Select the handicap allowance and then save the session to recalculate the strokes for the session.
+
+![](/apps/two-up/media/handicapping.gif)
+
+:::caution
+
+If you change a match after calculating the strokes, you'll need to re-save the Session in order for the strokes in each match to update.
+
+:::
 
