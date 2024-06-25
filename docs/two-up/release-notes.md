@@ -1,6 +1,6 @@
 # Release Notes
 
-### 1.3.2 <span style={{color: "white", padding: "0.2em", backgroundColor: "firebrick", borderRadius: "0.5em", fontSize: 16}}>beta</span>
+### 1.3.2
 
 * Add thanks to testers on profile page
 * Add team filter to players page
