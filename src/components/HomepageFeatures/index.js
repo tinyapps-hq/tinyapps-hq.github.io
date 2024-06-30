@@ -62,6 +62,7 @@ const FeatureList = [
     cta: (
       <>
         <AppStoreButton link="https://apps.apple.com/us/app/two-up/id6474644660" newTab={true} />
+        <AppStoreButton link="https://play.google.com/store/apps/details?id=net.tinyappshq.twoup&pcampaignid=web_share" newTab={true} store="google" />
       </>
     )
   },

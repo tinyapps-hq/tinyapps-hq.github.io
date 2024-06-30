@@ -1,9 +1,9 @@
 import React from "react";
 
-const AppStoreButton = ({link, newTab}) => {
+const AppStoreButton = ({link, newTab, store}) => {
     return  <div>
     <a href={link} target={newTab ? "_blank" : "_self"}>
-      <img src="/Download.svg" height="54" />
+      <img src={store === "google" ? "/Download_Google.png"  : "/Download.svg"} height="54" />
     </a>
   </div>
 }
