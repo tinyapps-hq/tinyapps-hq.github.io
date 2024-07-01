@@ -2,7 +2,6 @@
 
 ### 1.4.0
 
-* Add release notes
 * Add thanks to testers on profile page
 * Add team filter to players page
 * Add release notes and wand icon when update is applied
