@@ -1,10 +1,12 @@
 # Release Notes
 
-### 1.3.2
+### 1.4.0
 
+* Add release notes
 * Add thanks to testers on profile page
 * Add team filter to players page
 * Add release notes and wand icon when update is applied
+* Mark tournaments completed when they've been won for 24 hours
 * Fix bug with handicapped back-nine matches where scoring would malfunction
 
 ### 1.3.1 
