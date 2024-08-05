@@ -1,5 +1,12 @@
 # Release Notes
 
+### 1.5.0
+
+* Add ability to start events from Android!
+* Add option to set starting hole
+* Add lifetime records (beta)
+* Fix bug where loading spinners would not show on modal pages
+
 ### 1.4.0
 
 * Add thanks to testers on profile page
