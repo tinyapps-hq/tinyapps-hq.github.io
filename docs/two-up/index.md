@@ -27,3 +27,4 @@ Do you organize or participate in a Ryder-Cup-style golf trip? Do you struggle w
         <img src="/img/twoup/2.png"/>
     </div>
 <div style={{flex: 1, minWidth: "33%", maxWidth: "33%"}}><img src="/img/twoup/3.png"/></div><div style={{flex: 1, minWidth: "33%", maxWidth: "33%"}}><img src="/img/twoup/4.png"/></div><div style={{flex: 1, minWidth: "33%", maxWidth: "33%"}}><img src="/img/twoup/5.png"/></div><div style={{flex: 1, minWidth: "33%", maxWidth: "33%"}}><img src="/img/twoup/6.png"/></div><div style={{flex: 1, minWidth: "33%", maxWidth: "33%"}}><img src="/img/twoup/7.png"/></div></div>
+

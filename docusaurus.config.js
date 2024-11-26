@@ -31,7 +31,15 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  plugins:[
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-R336DTN305',
+        anonymizeIP: true,
+      },
+    ],
+  ],
   presets: [
     [
       'classic',

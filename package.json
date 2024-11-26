@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "2.4.0",
+    "@docusaurus/plugin-google-gtag": "^3.6.3",
     "@docusaurus/preset-classic": "2.4.0",
     "@ionic/react": "^7.7.4",
     "@mdx-js/react": "^1.6.22",
