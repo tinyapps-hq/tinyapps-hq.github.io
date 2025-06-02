@@ -1,7 +1,7 @@
 # v2 Bethpage
 Release Date: Jan-13, 2025
 
-### 2.1.0 <span style={{backgroundColor: "darkgrey", padding: "0.2em 0.5em", fontSize: "small", color: "white", borderRadius: 8}}>preview</span>
+### 2.1.0
 
 - Stay tuned into the action with streak notifications. Know when a team or player are 🥵 heating up or 🔥 on fire, and know every time a match is flipped. 🔴/🔵
 - Set up tournaments in a snap with the new progressive banner on the tournament form page. Just tap the banner to continue your setup. 💫
