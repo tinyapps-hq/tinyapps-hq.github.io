@@ -1,5 +1,5 @@
 # v1 Augusta
-Release Date: Feb-12, 2024
+Released Feb-12, 2024
 
 ### 1.5.0
 

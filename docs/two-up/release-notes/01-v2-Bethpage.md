@@ -1,15 +1,27 @@
 # v2 Bethpage
-Release Date: Jan-13, 2025
+
+
+### 2.2.0
+Released Aug-25, 2025  👨🏻‍🎨
+
+- [🗣️ Feedback] Play your way with customizable team names and colors! 🎨
+- [🗣️ Feedback] You can now modify the point values for stableford matches to suit your group's needs 🧮
+- [🗣️ Feedback] You can now change the type of play (Match/Stableford) within a single session 🫶🏻
+- 🔍 Made tournament fees more obvious, and let you pay for a tournament before starting it
+- 🐞 Fixed a bug where deleting a session would not remove its matches 
+
 
 ### 2.1.0
+Released Jun-2, 2025 🔔
 
-- Stay tuned into the action with streak notifications. Know when a team or player are 🥵 heating up or 🔥 on fire, and know every time a match is flipped. 🔴/🔵
+- [🗣️ Feedback] Stay tuned into the action with streak notifications. Know when a team or player are 🥵 heating up or 🔥 on fire, and know every time a match is flipped. 🔴/🔵
+- [🗣️ Feedback] Trust your participants? Allow any player to enter scores in any match with a tournament setting. 🔓 
 - Set up tournaments in a snap with the new progressive banner on the tournament form page. Just tap the banner to continue your setup. 💫
-- Trust your participants? Allow any player to enter scores in any match with a tournament setting. 🔓 
 - We reorganized the home screen to show all your tournaments in a list, with the most important ones first, so you don't have to go hunting for them. 🔍
 - 🐞 Fixed a bug where a tie would not be recongized as the defending team retaining the cup.
 
-### 2.0.0 
+### 2.0.0
+Released Jan-13, 2025 ➕
 
 - Always know the score with lead-change notifications
 - Easily communicate with all participants via tournament chat and announcements
