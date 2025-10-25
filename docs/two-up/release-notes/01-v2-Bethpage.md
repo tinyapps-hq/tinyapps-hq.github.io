@@ -1,6 +1,21 @@
 # v2 Bethpage
 
 
+### 2.4.0
+Released Oct-25, 2025 🔔
+
+- 🌓 Updated the handicap calculation for 9-hole matches to grant half strokes
+- 🧮 Added the session score to the session header
+- 👀 Added the tournament score to the tournament list tile on the homepage
+- 🔔 Made the tournament score update notifications more relevant by including the score in the match that just ended and cause the tournament score to change
+- 🐞 Fixed some grammar that would sometimes show in a streak notification
+- 🐞 Fixed a bug that caused 9-hole matches to receive incorrect strokes
+
+### 2.3.0
+Released Sep-6, 2025 ⛳
+
+- Added course lookup functionality, so you don't need to enter everything manually for most courses. 
+
 ### 2.2.0
 Released Aug-25, 2025  👨🏻‍🎨
 
