@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4938],{4038:e=>{e.exports=JSON.parse('{"title":"Clubs","slug":"/category/clubs-1","permalink":"/docs/category/clubs-1","navigation":{"previous":{"title":"View Your Stats","permalink":"/docs/two-up/participant/view-your-stats"},"next":{"title":"Create a Club","permalink":"/docs/two-up/clubs/create-a-club"}}}')}}]);
