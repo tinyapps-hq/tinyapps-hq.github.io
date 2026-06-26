@@ -1,6 +1,15 @@
 # v3 Carnoustie
 
 
+### 3.2.0
+Released Jun-1, 2026
+
+- As a host, you can now export the player list and their codes as a CSV to share with the group, or print out and share with the pro shop on the day of your tournament
+<!-- - Added [High-Low](https://www.golfdigest.com/story/the-best-golf-gambling-games-explained/how-to-play-low-ball-high-ball-golf-games-explained) as a game mode -->
+- Fixed a bug that could result in the app crashing when attempting to connect your account to Google or Apple
+- Fixed the session header scoring to properly format half points
+- Performance improvements and scalability fixes
+
 ### 3.1.0
 Released Apr-1, 2026
 

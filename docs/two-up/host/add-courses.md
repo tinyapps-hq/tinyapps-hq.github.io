@@ -8,9 +8,9 @@ You can add courses to your tournament to enable the calculation of handicap str
 
 ## Select an Existing Course
 
-You can select an existing course by tapping **Courses** form the Edit Tournament screen, then **Add Course**, then tap the name of the course to add.
+You can select an existing course by tapping **Courses** form the Edit Tournament screen, then **Add Course**, then search for the course and tee you'd like to add
 
-![](/apps/two-up/media/add-existing-course.gif)
+![](/apps/two-up/media/search-for-course.gif)
 
 ## Create a new Course
 

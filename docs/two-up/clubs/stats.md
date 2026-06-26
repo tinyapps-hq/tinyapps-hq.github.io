@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Club Stats & Records
 
+![](/apps/two-up/media/club-stats.gif)
+
 Clubs track participants' stats and records across all tournaments in the club. 
 
 ## All-time point leaders

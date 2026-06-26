@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Create a Club
 
+![](/apps/two-up/media/create-club.gif)
+
 Pro members can track and manage historical records for recurring tournaments. See stats for individuals like their lifetime records, their pairing histories and records, and head-to-head matchup records against others in the club.
 
 Create a club from the home screen.

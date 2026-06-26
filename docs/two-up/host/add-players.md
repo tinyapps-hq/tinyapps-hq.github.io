@@ -22,3 +22,9 @@ Once a player has been created, you can invite them by tapping the
 ![](/apps/two-up/media/invite-player.gif)
 
 When a player has accepted his/her invite, you'll see a green (<PersonIcon/>) icon next to their name
+
+## Export Codes
+
+You can export codes for all players in a single CSV to share with your group in chat or to leave in the golf shop for players when they check in.
+
+![](/apps/two-up/media/export-invites.gif)
