@@ -2,7 +2,7 @@
 
 
 ### 3.3.0
-Released TBD, 2026
+Released Jul-19, 2026
 
 Our biggest update yet\! This version brings new game modes, new trip planning features, and an all-new web experience for hosts to make configuring and running your trips even easier.
 
